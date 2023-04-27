@@ -14,7 +14,7 @@
 - 👨‍💻 As a CSE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬  Ask me about anything [here](https://www.linkedin.com/in/mahmoud-abdul-kareem/)
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 70% height=30px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 78% height=30px>
 
 ### Connect with Me :
 
