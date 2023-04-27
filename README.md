@@ -31,14 +31,10 @@
 ![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=CLion&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAbdul-kareemAwad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages">
+
 <a href="https://komarev.com/ghpvc/?username=MahmoudAbdul-kareemAwad&style=for-the-badge">
-<img align="right" src="https://komarev.com/ghpvc/?username=MahmoudAbdul-kareemAwad&style=for-the-badge">
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAbdul-kareemAwad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbdul-kareemAwad&show_icons=true&theme=radical)
-
-  
+    <img align="left" src="https://komarev.com/ghpvc/?username=MahmoudAbdul-kareemAwad&style=for-the-badge">
 </a>
   
 
