@@ -34,7 +34,7 @@
 ### 🔹 Platforms & Tools
 <p>
 <img title="SQL Server" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-<img title="AWS" alt="AWS" src="assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<img title="AWS" alt="AWS" src="https://github.com/MahmoudAbdul-kareem/MahmoudAbdul-kareem/blob/main/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
 <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img title="GitHub" src="https://skillicons.dev/icons?i=github" width="42"/>
