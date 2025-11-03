@@ -6,7 +6,7 @@
 </p>
 
 ## 🧑‍💻 About Me  
-- 🎓 CSE Student @ Menoufia University  
+- 🎓 CSE Student @ FEE Menoufia University  
 - 💻 Full Stack Developer (**ASP.NET Core + Angular**)  
 - ☁️ Cloud Enthusiast — AWS + Linux foundations  
 - 🤝 Open to internships & real-world collaborations  
@@ -19,7 +19,7 @@
 <img title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
 <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" width="40"/>
+<img title="C" alt="C" src="https://github.com/MahmoudAbdul-kareem/MahmoudAbdul-kareem/blob/main/c.svg" width="40"/>
 <img title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
