@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/mahmoud-abdul-kareem/">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36"/>
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/MahmoudAbdul_kareem">
+  <a href="https://t.me/mahmoud_cse">
     <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="36"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/MahmoudAbdul-kareem">
